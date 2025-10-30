@@ -1,0 +1,6 @@
+contract_id,vendor,modality,site,department,start_date,end_date,annual_cost,status,risk_score
+C-1001,GE Healthcare,Anesthesia,Main,OR,2023-01-01,2026-01-01,120000,Active,0.2
+C-1002,Philips,Patient Monitor,North,ICU,2022-07-01,2025-11-15,85000,Active,0.4
+C-1003,Siemens,CT,Main,Radiology,2021-10-01,2025-12-31,220000,Active,0.6
+C-1004,Fujifilm,X-Ray,South,ER,2022-03-15,2026-03-14,65000,Active,0.3
+C-1005,Dräger,Ventilator,Main,ICU,2024-02-01,2025-12-01,90000,Active,0.5
