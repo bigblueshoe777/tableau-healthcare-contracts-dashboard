@@ -1,4 +1,4 @@
-# Healthcare Contracts Dashboard — Tableau Sample
+# Healthcare Contracts Dashboard — Simple Tableau Sample
 
 A small dataset and step-by-step guide to produce a Tableau dashboard relevant to clinical engineering / contracting.
 
@@ -19,5 +19,11 @@ See `data/contracts_sample.csv` (synthetic).
 5. Build a **Dashboard**: place KPI, Bar, Heatmap, Timeline; use `Is Expiring Soon` as a filter.
 6. Publish to **Tableau Public**, then link it in your GitHub repo README.
 
-## Screenshot (optional)
-Export a PNG of the dashboard to `outputs/` and commit it so visitors have a preview.
+## Live Dashboard
+<!-- Replace with your real Tableau Public link when published -->
+[Open on Tableau Public](https://public.tableau.com/views/contracts_dashboard/Dashboard1)
+
+![Dashboard preview](workbook/dashboard_preview.png)
+
+**Open locally:** `workbook/contracts_dashboard.twb` (data source: `data/contracts_sample_large.csv`)
+
